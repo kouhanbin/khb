@@ -1,0 +1,18 @@
+clear
+
+echo "=============="
+
+echo "202325170218--wuhongkai”
+
+echo "个人爱好：watch TV"
+
+echo "=============='
+
+sleep 5
+
+echo "学号-姓名：202325170218--wuhongkai"
+
+echo host name is : $HOSTNAME
+
+date
+
